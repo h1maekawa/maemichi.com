@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piro-dev.pages.dev/sitemap.xml
